@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.1.18",
+    "body-parser": "^1.20.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "react-native-safe-area-context": "^4.11.0",
+    "react-native-screens": "^3.34.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
